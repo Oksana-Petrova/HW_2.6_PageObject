@@ -1,0 +1,1 @@
+Project status [![Build status](https://ci.appveyor.com/api/projects/status/slclkbtu1nk8ivfe?svg=true)](https://ci.appveyor.com/project/Oksana-Petrova/hw-2-6-pageobject)
